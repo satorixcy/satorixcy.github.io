@@ -1,0 +1,11 @@
+# 主要数据页索引
+- name: Cup1
+  link: /
+- name: Cup2
+  link: /about.html
+- name: Cup3
+  link: /blog.html
+- name: Cup4
+  link: /staff.html
+- name: Cup5
+  link: /resume.html
